@@ -1,5 +1,5 @@
 # geohash-locality
-
+### [Live Demo](https://alvin-kz83.github.io/geohash-locality/)
 ## Project Overview
 This JavaScript project addresses the geohash locality problem, focusing on calculating the proximity of geohashes in an 8x8 grid. It's designed to enhance spatial data analysis and map services by accurately determining the nearness of different geohashes.
 
